@@ -13,7 +13,7 @@
     "nanoid": "^2.0.2",
     "pathfinding": "^0.4.18",
     "sqlite3": "^4.0.8",
-    "terminal-kit": "^1.28.0",
+    "terminal-kit": "^3.0.0",
     "ws": "^7.0.0"
   }
 }
